@@ -12,8 +12,8 @@
 - data analyist
 
 ### Tech
-- MySQL
-- Deeplearning 
+- NoSQL(MongoDB)
+- Deeplearning(TCN)
 - Kubernetes
 
 ### Certificate
