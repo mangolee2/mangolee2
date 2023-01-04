@@ -3,9 +3,6 @@
 ### Careers
 - 충북대학교 정보통신공학부 석사 : ~ 2023.08 졸업 예정
 - 충북대학교 Net&DataBase lab : 2021.09 ~ 2023.08
-- 스타트업 재직 : ~ 2021.03
-- 플랫폼 사업 : 2019.03 ~ 2020.10
-- 경영학 학사 : 2014.03 ~ 2019.02
 
 ### Job Objectives
 - engineer
@@ -31,6 +28,9 @@
 
 <!--
 **mangolee2/mangolee2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 스타트업 재직 : ~ 2021.03
+- 플랫폼 사업 : 2019.03 ~ 2020.10
+- 경영학 학사 : 2014.03 ~ 2019.02
 
 Here are some ideas to get you started:
 
