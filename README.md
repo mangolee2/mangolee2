@@ -15,7 +15,7 @@
 
 ### Certificate
 - 정보처리기사
-- ADSP 데이터분석 준전문가
+- ADsP 데이터분석 준전문가
 - Toeic Speaking M2
 
 ### Research
