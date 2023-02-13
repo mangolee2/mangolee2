@@ -16,7 +16,7 @@
 ### Certificate
 - 정보처리기사
 - ADsP 데이터분석 준전문가
-- Toeic Speaking M2
+- Toeic Speaking IM2
 
 ### Research
 - Fuzzy clustering을 활용한 POI 추천 시스템.한국콘텐츠학회논문지
