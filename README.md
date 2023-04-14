@@ -16,6 +16,7 @@
 ### Certificate
 - 정보처리기사
 - ADsP 데이터분석 준전문가
+- SQLD Sql 개발자
 - Toeic Speaking IM2
 
 ### Research
